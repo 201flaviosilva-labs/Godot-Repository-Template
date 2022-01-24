@@ -1,29 +1,12 @@
-# README #
+# Unity Repository Template
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Description
 
-### What is this repository for? ###
+A simple costume repository template for a Unity project
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Links
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+- [Play](https://master.d3qmg4fk063k5p.amplifyapp.com/);
+- [Code](https://bitbucket.org/201flaviosilva/unity-repository-template/);
+- [Unity Official Web Site](https://unity.com/);
+- [Tutorial]();
