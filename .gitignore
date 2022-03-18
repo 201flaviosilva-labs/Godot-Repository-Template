@@ -1,7 +1,9 @@
 # ---- Personalizado
+_ignore
+build
 Build
 _Build
-_ignore
+_build
 
 ## --- Default
 # These are some examples of commonly ignored file patterns.
@@ -9,10 +11,11 @@ _ignore
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+# ----------------------------------------------------------------
 # Godot-specific ignores
 .import/
 export.cfg
-export_presets.cfg
+# export_presets.cfg
 addons
 
 # Imported translations (automatically generated from CSV files)
