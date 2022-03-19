@@ -56,6 +56,6 @@ pipelines:
             name: "Artifact All"
             #trigger: manual
             script:
-              - echo "Artifact All"
+              - echo "Artifact All."
             artifacts:
               - build/**
