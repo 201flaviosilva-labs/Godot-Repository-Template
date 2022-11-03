@@ -1,13 +1,16 @@
 # Based in: https://github.com/abarichello/godot-ci/blob/master/.github/workflows/godot-ci.yml
 
 name: "Godot-CI Export"
+
 on:
   push:
     branches:
       - main
+      - master
   pull_request:
     branches:
       - main
+      - master
 
 env:
   GODOT_VERSION: 3.5.1
